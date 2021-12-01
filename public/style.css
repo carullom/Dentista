@@ -1,0 +1,48 @@
+.bg-colore{
+    background-color: #549DD1;
+}
+
+.colore{
+    color: #549DD1;
+}
+
+.bordo{
+    border-bottom: 2px solid #549DD1;
+}
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background:linear-gradient(120deg,rgba(150,150,150,0.3),rgba(150,150,150,0.3)), url('/media/header.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .masthead2 {
+    height: 50vh;
+    min-height: 300px;
+    background-image: url('/media/staff.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .masthead3 {
+    height: 50vh;
+    min-height: 300px;
+    background-image: url('/media/staff.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+ 
+  .slick-slide:focus{
+    outline: none;
+    border: none;
+  }
+
+  .bg-copy{
+    background-color: rgb(230,230,230);
+  }
+
+  .border-card{
+    border: 2px solid #549DD1;
+  }
